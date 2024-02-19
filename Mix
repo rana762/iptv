@@ -99,7 +99,7 @@ https://lamsom.co.uk/crichd/crichd.php?id=willowextra&e=.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 
 http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:29:5D&stream=191402&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| Fan Code
+#EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKE FAN CODE
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
  https://dai.fancode.com/primary/93841_english_hls_5180ta-di/index.m3u8
