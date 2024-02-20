@@ -1,60 +1,51 @@
- #EXTM3U
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png",group-title="Cricket LIVE" A Sports HD
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png",group-title="Cricket LIVE", A Sports HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://testing.denver1769.in/51.php?id=11217
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png",group-title="Cricket LIVE" BT Sport 1
-https://lamsom.co.uk/crichd/crichd.php?id=bbtsp1&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png",group-title="Cricket LIVE" BT Sport 2
-https://lamsom.co.uk/crichd/crichd.php?id=bbtsp2&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png",group-title="Cricket LIVE" BT Sport 3
-https://lamsom.co.uk/crichd/crichd.php?id=bbtsp3&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png", my group-title="Cricket LIVE"BT Sport 4
-https://lamsom.co.uk/crichd/crichd.php?id=bbtespn&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png",group-title="Cricket LIVE"Fox Cricket 501 HD
-https://lamsom.co.uk/crichd/crichd.php?id=fox501&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png",group-title="Cricket LIVE"Geo Super
-https://lamsom.co.uk/crichd/crichd.php?id=geosp&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png",group-title="Cricket LIVE" PTV Sports
-https://lamsom.co.uk/crichd/crichd.php?id=ptvpk&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png",group-title="Cricket LIVE" Sky Sports Action
-https://lamsom.co.uk/crichd/crichd.php?id=skysact&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png",group-title="Cricket LIVE" Sky Sports Arena
-https://lamsom.co.uk/crichd/crichd.php?id=skysare&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png",group-title="Cricket LIVE" Sky Sports Cricket
-https://lamsom.co.uk/crichd/crichd.php?id=skyscric&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr32VRp9/Sky-Sports-Main-Event.png",group-title="Cricket LIVE" Sky Sports Main Event
-https://lamsom.co.uk/crichd/crichd.php?id=skysme&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png",group-title="Cricket LIVE"Sky Sports Mix
-https://lamsom.co.uk/crichd/crichd.php?id=skysmixx&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png",group-title="Cricket LIVE"Super Sport Cricket
-https://lamsom.co.uk/crichd/crichd.php?id=supercricket&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mhr8ZsD/Super-Sport-Action.png",group-title="Cricket LIVE"SuperSport Action
-https://lamsom.co.uk/crichd/crichd.php?id=superactions&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QzZ2gVg/Super-Sport-Grandstandpng",group-title="Cricket LIVE" SuperSport Grandstand
-https://lamsom.co.uk/crichd/crichd.php?id=supergrandstand&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmhq4s2n/Super-Sport-Variety-1.png",group-title="Cricket LIVE" SuperSport Variety 1
-https://lamsom.co.uk/crichd/crichd.php?id=hdchnl6&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrJ1pX55/Super-Sport-Variety-2.png",group-title="Cricket LIVE"SuperSport Variety 2
-https://lamsom.co.uk/crichd/crichd.php?id=hdchnl7&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdtJ8G4X/Super-Sport-Variety-3.png",group-title="Cricket LIVE" SuperSport Variety 3
-https://lamsom.co.uk/crichd/crichd.php?id=hdchnl8&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28HnX9zg/Super-Sport-Variety-4.png",group-title="Cricket LIVE" SuperSport Variety 4
-https://lamsom.co.uk/crichd/crichd.php?id=hdchnl9&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLbzBHqt/Ten-Sports.png",group-title="Cricket LIVE" TEN Sports Pakistan
-https://lamsom.co.uk/crichd/crichd.php?id=tenspk&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png",group-title="Cricket LIVE" Willow HD
-https://lamsom.co.uk/crichd/crichd.php?id=willowusa&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png",group-title="Cricket LIVE" Willow Xtra
-https://lamsom.co.uk/crichd/crichd.php?id=willowextra&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png",group-title="Cricket LIVE",Fox Cricket 501 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://testing.denver1769.in/51.php?id=2400
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png",group-title="Cricket LIVE",Geo Super
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://testing.denver1769.in/51.php?id=2400
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png",group-title="Cricket LIVE", PTV Sports
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://testing.denver1769.in/51.php?id=11216
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png",group-title="Cricket LIVE", Sky Sports Cricket
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://testing.denver1769.in/51.php?id=2310
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png",group-title="Cricket LIVE", Star Sports DH
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://testing.denver1769.in/51.php?id=11126
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png",group-title="Cricket LIVE", Star Sport Hindi
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://testing.denver1769.in/51.php?id=10661
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png",group-title="Cricket LIVE"Super, Sport Cricket
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://testing.denver1769.in/51.php?id=7685
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mhr8ZsD/Super-Sport-Action.png",group-title="Cricket LIVE",SuperSport
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://testing.denver1769.in/51.php?id=10646
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png",group-title="Cricket LIVE", Willow HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://testing.denver1769.in/51.php?id=6933
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:29:5D&stream=191402&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKE FAN CODE
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
- https://dai.fancode.com/primary/93841_english_hls_5180ta-di/index.m3u8
+https://dai.fancode.com/primary/93841_english_hls_5180ta-di/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKET LIVE 4 720 HD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -91,25 +82,15 @@ http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:29:5D&stream=303628&exte
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:29:5D&stream=303629&extension=ts
-
 #EXTINF:-1 tvg-id="" tvg-name="|UK| ASTRO CRICKET" group-title="Cricket LIVE",|UK|ASTRO CRICKET
-
 #EXTVLCOPT:cache=17238
-
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636193&extension=ts
-
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CRIME" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI CRIME
-
 #EXTVLCOPT:cache=17238
-
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636173&extension=ts
-
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI FAMILY" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI FAMILY
-
 #EXTVLCOPT:cache=17238
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
