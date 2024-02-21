@@ -45,7 +45,7 @@ http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:29:5D&stream=191402&exte
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKE FAN CODE
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://tinyurl.com/2b2es6wd
+https://dai.fancode.com/primary/93844_english_hls_8560ta-di/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKET LIVE 4 720 HD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
