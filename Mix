@@ -45,7 +45,7 @@ http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:29:5D&stream=191402&exte
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKE FAN CODE
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/BSli_URtUFVuDsmz6OKxuUP1S95wp7FmF9mxS2L_2vNq7lNIElOWw8goqL37Xe57FxJhhV1B3Z5PHtn7mbeW6w/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zMbC5iEYUclsjB1sz8Bdg3UgQS6n6IkqJL3vYm7e3EDouevmWUOoEtaSnmPINtgMX7Io8oP0UHObEqBNamukug/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live6w/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKET LIVE 4 720 HD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
