@@ -54,10 +54,10 @@ https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad5858696
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://103.153.117.150:8085/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKET LIVE 6 LQ HD
+#EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKET LIVE 6 tampad
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://dai.google.com/linear/hls/event/nvXTSy8WT7-JMMS_vwfhbQ/master.m3u8
+https://prim24banandneppsl.akamaized.net/hls/live/2110098/pslbangla/hdntl=exp=1709127928~acl=%2f*~data=hdntl~hmac=5958cecc23327032943f6e2dc9398f07bd13f2ad5b185c37d2af9c258fc5d21d/level_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKET LIVE 7 HD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
