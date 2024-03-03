@@ -45,7 +45,7 @@ http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:29:5D&stream=191402&exte
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKE FAN CODE
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://hotflix.the-nayeemparvez.xyz/f1/tracks-v1a1/mono.m3u8
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/SR-7RwsWGItFrkulRxg1bJngJCgxlUaW05lz7MOkW2fALPL6dXU6Y81lgoZwTpRbRhX6Ek7fyBwNdUwAkvg8KQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKET LIVE 4 720 HD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
