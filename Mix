@@ -45,7 +45,7 @@ http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:29:5D&stream=191402&exte
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKE FAN CODE
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://vkvsd87.mycdn.me/hls/6229929101868.m3u8/sig/AFL3PrYyiWk/expires/1709994549372/srcIp/103.61.224.59/urls/45.136.22.57/clientType/14/srcAg/CHROME_ANDROID/mid/7162027060012/video.m3u8?p
+https://prim24banandneppsl.akamaized.net/hls/live/2110098/pslbangla/master.m3u8?hdnts=exp=1710260161~acl=/hls/*~hmac=08c9bd815f8b04fa7af1b94bcff848e22e3036dbec7ad1a400494b537d241f8e
 #EXTINF:-1 tvg-id="" tvg-name="|UK| CRICKET LIVE 1 HD" group-title="Cricket LIVE",|UK| CRICKET LIVE 4 720 HD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
