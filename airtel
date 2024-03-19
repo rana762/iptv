@@ -192,5 +192,13 @@ https://livea.streamready.in/airtelspecialoffers/smil:common.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2129
 #EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e750230904c4f275b6a/images/308.webp" group-title="Infotainment",Airtel Entertainment Home 2
 https://livea.streamready.in/airtelentertainmenthome2/smil:common.smil/manifest.mpd
-HTML Tags: 3
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2132
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e750230904c4f275b6a/images/308.webp" group-title="Infotainment",Sony yay
+https://livea.streamready.in/sonyyay/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2133
+#EXTINF:-1 tvg-id="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736e750230904c4f275b6a/images/308.webp" group-title="Infotainment",Nickelodeon.in,Nick
+https://livea.streamready.in/nick/smil:common.smil/manifest.mpd
