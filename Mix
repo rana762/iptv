@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png",group-title="Cricket LIVE",IPL ENGLISH-2
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://tinyurl.com/sagor-ipl-english2
+https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png",group-title="Cricket LIVE",IPL HINDI
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
