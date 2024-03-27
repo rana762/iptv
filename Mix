@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png",group-title="Cricket LIVE", IPL ENGLISH-1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png",group-title="Cricket LIVE", IPL yupp
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png",group-title="Cricket LIVE",IPL ENGLISH-2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png",group-title="Cricket LIVE",IPL ENGLISH-1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png",group-title="Cricket LIVE",IPL HINDI
+http://94.137.74.233:8880/109205180/NBrMV4S7nH/701602?play_token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png",group-title="Cricket LIVE",IPL SD tampad
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://tinyurl.com/ipl-hindi
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png",group-title="Cricket LIVE", PTV Sports
+http://94.137.74.233:8880/109205180/NBrMV4S7nH/700451?play_token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png",group-title="Cricket LIVE", Hindi ad free ipl jio cinema
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://testing.denver1769.in/51.php?id=11216
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png",group-title="Cricket LIVE", Sky Sports Cricket
+https://ardinesh-ipl.puspas.com.np/live/ipl-universal/hindi-ads-free/index.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png",group-title="Cricket LIVE", ad free english ipl
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://testing.denver1769.in/51.php?id=2310
+https://ardinesh-ipl.puspas.com.np/live/ipl-universal/english-ads-free/index.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png",group-title="Cricket LIVE", Star Sports DH
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
