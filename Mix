@@ -3,26 +3,26 @@
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png",group-title="Cricket LIVE",IPL ENGLISH-1
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg?impolicy=Medium_Widthonly&w=400",group-title="Cricket LIVE",IPL ENGLISH-1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://94.137.74.233:8880/109205180/NBrMV4S7nH/701602?play_token=test
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png",group-title="Cricket LIVE",IPL SD tampad
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg?impolicy=Medium_Widthonly&w=400",group-title="Cricket LIVE",IPL SD tampad
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://94.137.74.233:8880/109205180/NBrMV4S7nH/700451?play_token=test
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png",group-title="Cricket LIVE", Hindi ad free ipl jio cinema
+http://94.137.74.233:8880/232506590/187202577/701602?play_token=test
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg?impolicy=Medium_Widthonly&w=400",group-title="Cricket LIVE", Hindi ad free ipl jio cinema
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ardinesh-ipl.puspas.com.np/live/ipl-universal/hindi-ads-free/index.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png",group-title="Cricket LIVE", ad free english ipl
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg?impolicy=Medium_Widthonly&w=400",group-title="Cricket LIVE", ad free english ipl
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ardinesh-ipl.puspas.com.np/live/ipl-universal/english-ads-free/index.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png",group-title="Cricket LIVE", Star Sports DH
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://s.id/StarSports_1_Hindi
+http://94.137.74.233:8880/232506590/187202577/775232?play_token=test
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png",group-title="Cricket LIVE", Star Sport Hindi
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -86,7 +86,7 @@ https://mrkingsports.000webhostapp.com/Sports.php?id=143056
 #EXTINF:-1 tvg-id="" tvg-name="|UK| ASTRO CRICKET" group-title="Cricket LIVE",|UK|ASTRO CRICKET
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=636193&extension=ts
+http://94.137.74.233:8880/232506590/187202577/700451?play_token=test
 #EXTINF:-1 tvg-id="" tvg-name="IN-PREM| HINDI CRIME" group-title="ASIA | PREMIUM VIP",IN-PREM| HINDI CRIME
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
